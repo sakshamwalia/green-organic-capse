@@ -1,0 +1,18 @@
+
+/*----------Footer-----------*/
+
+footer{
+    background-color: rgb(7, 66, 7);
+    color: #ffffff;
+}
+
+.bg-cell{
+    background-color:rgb(0, 48, 0);
+}
+
+.search{
+    border: 0;
+    outline: 0;
+    border-radius: 20px;
+    max-width: 100%;
+}
